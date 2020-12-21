@@ -1,3 +1,4 @@
-# kickstarter-analysis
-Preforming analysis on Kickstarter data to uncover trends
-#An Analysis of Kickstarter Campaigns
+# Kickstarting with Excel
+##Overview of the Project 
+### Purpose
+The purpose of this project was to uncover 
