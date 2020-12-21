@@ -5,7 +5,9 @@ The purpose of this project was to uncover trends in campaign fundraising to hel
 ## 2. Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
 To analyze outcomes based on launch date, I created a pivot table with the months of the year broken down into successful, failed, and canceled campaign outcomes. I then broke this down further the theater category. 
-![image](This_PC/Pictures/Launch_date.png)
+
+![image](C:\Users\krist\OneDrive\Desktop\launchDate.png)
+
 I then created a line graph that showed the results visually. Looking at the graph it was clear that more successful campaigns were launched during the summer and the least successful campaigns launched during the winter. 
  
 ### Analysis of Outcomes Based on Goals
